@@ -6,7 +6,7 @@ Watching DoorDash, Uber Eats, and Grubhub siphon 25-30% from every order while s
 
 Zero-commission ordering with instant menu updates, automated scheduling, and thermal printing for $139 monthly.
 
-![OrderDive Screenshot](image/get.webp)
+![OrderDive Screenshot](/get.webp)
 
 
 OrderDive attacks the restaurant industry's biggest pain point head-on—the 30% commission third-party marketplaces extract from every order while simultaneously undermining your business by promoting competitors. The platform's core value proposition is brutally simple: keep 100% of every order instead of watching a third of your revenue disappear to DoorDash, Uber Eats, or Grubhub shareholders.
@@ -25,7 +25,7 @@ Pricing at $139 monthly when billed annually includes unlimited commission-free 
 
 Branded website and mobile apps with marketing tools starting $139 monthly for independent restaurant focus.
 
-![ChowNow Screenshot](image/get.webp)
+![ChowNow Screenshot](/get.webp)
 
 
 ChowNow built its reputation specifically serving independent restaurants fighting against corporate chain advantages and third-party marketplace exploitation. The platform provides branded websites and native iOS/Android mobile apps putting your restaurant identity front-and-center rather than burying you inside generic marketplace interfaces where customers see five competitors simultaneously.
@@ -44,7 +44,7 @@ Pricing starts at $119 monthly for restaurants generating $20,000 or less in mon
 
 Design-first ordering platform with responsive support and automated marketing from $79 monthly per location.
 
-![BentoBox Screenshot](image/getbento.webp)
+![BentoBox Screenshot](/getbento.webp)
 
 
 BentoBox differentiates through design-first philosophy keeping restaurant branding and identity central throughout the ordering experience from first click through checkout to order updates. The platform understands that dining represents lifestyle and aesthetic choices—customers don't just want food, they want experiences aligning with personal identity and values your brand communicates.
@@ -65,7 +65,7 @@ Pricing at $79 monthly for the first location (or $49 monthly as add-on to exist
 
 Commission-free platform with 40+ website themes, branded mobile apps, and automated marketing from $49 monthly.
 
-![UpMenu Screenshot](image/upmenu.webp)
+![UpMenu Screenshot](/upmenu.webp)
 
 
 UpMenu emphasizes commission-free ordering combined with extensive website customization options and included branded mobile apps, letting restaurants build strong brand identities while avoiding fee structures bleeding profits. The 40+ website themes accommodate diverse restaurant aesthetics from fine dining elegance to casual counter-service simplicity without requiring custom design expertise.
@@ -86,7 +86,7 @@ Pricing starts at $49 monthly with seven-day free trials, positioning UpMenu as 
 
 Free basic system with built-in kitchen display, loyalty programs, and pay-per-feature advanced options.
 
-![GloriaFood Screenshot](image/gloriafood.webp)
+![GloriaFood Screenshot](/gloriafood.webp)
 
 
 GloriaFood offers genuinely free basic online ordering functionality helping beginning restaurants or tight-budget operations establish direct ordering without upfront investment. The free tier includes online ordering through websites or Facebook pages, menu management, order tracking, and basic customer data management—fundamentals needed to start capturing direct orders immediately.
@@ -103,7 +103,7 @@ Customer ratings of 4.6/10 reflect the reality that genuinely free services comp
 
 Commission-free delivery management with fully-managed driver networks and customer engagement tools.
 
-![Sauce Screenshot](image/getsauce.webp)
+![Sauce Screenshot](/getsauce.webp)
 
 
 Sauce tackles the delivery problem specifically—restaurants want to offer delivery without third-party marketplace exploitation but managing driver fleets and delivery logistics creates operational headaches they lack expertise handling. Sauce provides commission-free ordering plus fully-managed delivery including driver networks, routing optimization, and customer communication.
@@ -122,7 +122,7 @@ Pricing details weren't prominently disclosed but the fully-managed delivery ser
 
 No-commission delivery with integrated POS, business banking, and unified restaurant operations platform.
 
-![Owner.com Screenshot](image/owner.webp)
+![Owner.com Screenshot](/owner.webp)
 
 
 Owner.com provides comprehensive restaurant technology ecosystem integrating online ordering, POS systems, business banking, and operational tools into unified platform managing multiple business functions through single provider. This integration streamlines operations by connecting ordering, payment processing, inventory management, accounting, and banking rather than forcing restaurants to cobble together disparate systems requiring manual reconciliation.
@@ -141,7 +141,7 @@ Pricing structures weren't clearly disclosed but comprehensive integrated platfo
 
 Integrated ordering with payment processing, POS systems, and free basic plans scaling to paid features.
 
-![Square for Restaurants Screenshot](image/squareup.webp)
+![Square for Restaurants Screenshot](/squareup.webp)
 
 
 Square for Restaurants extends Square's ubiquitous payment processing into full restaurant management including online ordering, POS terminals, menu management, and reporting analytics. The tight integration between payment processing and ordering simplifies accounting, reduces transaction fees through unified processing, and creates seamless data flow across systems.
